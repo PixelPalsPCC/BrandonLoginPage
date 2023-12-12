@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log in to KickPost</title>
+    <link rel="stylesheet" href="style.css">
+    <img class="logo" src="KickPost-Logo.png" height="50";/>
+</head>
+    <div class="div">
+        <h1 class="title">Let's KickPost!</h1>
+        <h2>Choose your region and add your work email to start.</h2>
+        <select name="choose Your Region">
+            <option selected="antarctica">Antarctica</option>
+            <option selected="pacific">The Pacific Ocean</option>
+            <option selected="tunnels">Underground Tunnel Systems</option>
+            <option selected="choose your region">Choose Your Region</option>
+        </select>
+            <p class="work-email">WORK EMAIL</p>
+                <input type="text" id="work-email">
+        <p class="one">By joining you confirm you accept our <a href="https://Example1.mozilla org"target="blank"style="color: rgb(131, 228, 228);text-decoration: none;">terms of service</a> and <a href="https:example2.ozilla.org" target="blank"style="color: rgb(131, 228, 228);text-decoration: none;"> privacy policy</a></p>
+        <form method="post">
+        <button class= "btn next"style="color: rgb(131, 228, 228);text-decoration: none;">NEXT</button>
+    </div> 
